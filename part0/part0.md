@@ -1,6 +1,4 @@
-# Part 0 – Notes App Diagrams
-
-## Exercise 0.4 – New note (Traditional app)
+ New note (Traditional app)
 
 ```mermaid
 sequenceDiagram
